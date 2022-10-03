@@ -1,0 +1,109 @@
+{
+  "packages": [
+    {
+      "name": "uca-leat-boards",
+      "maintainer": "nguyenmanhthao996tn",
+      "websiteURL": "https://github.com/nguyenmanhthao996tn",
+      "email": "mtnguyen@unice.fr",
+      "help": {
+        "online": "https://www.linkedin.com/in/thaonguyenuit/"
+      },
+      "platforms": [
+		{
+          "name": "UCA-LEAT Boards",
+          "architecture": "stm32l4",
+          "version": "0.4.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/nguyenmanhthao996tn"
+          },
+          "url": "https://github.com/nguyenmanhthao996tn/LoRa-UWB-Core/archive/refs/tags/v0.4.0.tar.gz",
+          "archiveFileName": "LoRa-UWB-Core-0.4.0.tar.gz",
+          "checksum": "MD5:AC18C8F6E0F98B4C89790BD706984CFF",
+          "size": "16774580",
+          "boards": [
+            {"name": "LoRa UWB Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
+        {
+          "name": "UCA-LEAT Boards",
+          "architecture": "stm32l4",
+          "version": "0.3.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/nguyenmanhthao996tn"
+          },
+          "url": "https://github.com/nguyenmanhthao996tn/LoRa-UWB-Core/archive/refs/tags/v0.3.0.tar.gz",
+          "archiveFileName": "LoRa-UWB-Core-0.3.0.tar.gz",
+          "checksum": "MD5:1D54AA244FF9F08FF2D150946FE50EB3",
+          "size": "16773309",
+          "boards": [
+            {"name": "LoRa UWB Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
+        {
+          "name": "UCA-LEAT Boards",
+          "architecture": "stm32l4",
+          "version": "0.2.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/nguyenmanhthao996tn"
+          },
+          "url": "https://github.com/nguyenmanhthao996tn/LoRa-UWB-Core/archive/refs/tags/v0.2.0.tar.gz",
+          "archiveFileName": "LoRa-UWB-Core-0.2.0.tar.gz",
+          "checksum": "MD5:85BF0CDD70C70E7C28585CE40DEB0CA2",
+          "size": "16767535",
+          "boards": [
+            {"name": "LoRa UWB Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
+        {
+          "name": "UCA-LEAT Boards",
+          "architecture": "stm32l4",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/nguyenmanhthao996tn"
+          },
+          "url": "https://github.com/nguyenmanhthao996tn/LoRa-UWB-Core/archive/refs/tags/v0.1.0.tar.gz",
+          "archiveFileName": "LoRa-UWB-Core-0.1.0.tar.gz",
+          "checksum": "MD5:6D210DFF37486D8467132C96D911D3A8",
+          "size": "16527873",
+          "boards": [
+            {"name": "LoRa UWB Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        }
+      ],
+      "tools":[
+      ]
+    }
+  ]
+}
