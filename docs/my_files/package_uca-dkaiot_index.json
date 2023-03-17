@@ -12,7 +12,7 @@
         {
           "name": "UCA-DKAIoT",
           "architecture": "stm32l4",
-          "version": "0.0.9-001",
+          "version": "0.0.9-rc1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/FabienFerrero/UCA_AIoT_Core/"
